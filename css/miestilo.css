@@ -1,0 +1,42 @@
+body{
+      background-image: url("../Imagenes/fondo.jpg");
+     background-size: cover;
+
+    height: fit-content;
+
+    background-position: center;
+    
+}
+.nav-color {
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  border-radius: 999px;
+  border: 2px solid #fff !important;
+}
+
+
+section{
+    margin-top: 40px;
+}
+
+.iconogrande{
+    font-size: 50px;
+    margin: 10px;
+}
+.sombra {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.margen_interno_caja{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.margen_externo_caja{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.bordes_redondos6{
+    border-radius: 30px;
+}
